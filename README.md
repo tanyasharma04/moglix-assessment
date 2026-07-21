@@ -13,11 +13,10 @@ I used a stack to store the indices of parentheses. While traversing the string,
 
 ## Code
 
-```cpp
+
 <img width="1917" height="976" alt="image" src="https://github.com/user-attachments/assets/1849614b-77e8-4387-90cb-361df63187c9" />
 <img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/97393238-a233-4597-94c6-bf98c2af2ec3" />
 
-```
 
 ## Sample Input 1
 
