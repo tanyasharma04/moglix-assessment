@@ -15,13 +15,16 @@ I used a stack to store the indices of parentheses. While traversing the string,
 
 
 
-<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/97393238-a233-4597-94c6-bf98c2af2ec3" />
-<img width="1917" height="1026" alt="image" src="https://github.com/user-attachments/assets/715762cd-3788-43ff-a57c-41283a138387" />
+<img width="1915" height="1017" alt="image" src="https://github.com/user-attachments/assets/ad895caa-ce18-4476-86a7-61bff206302b" />
+
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/02c9566b-45e6-4921-a679-3a71f517b719" />
+
 
 
 
 ## Sample Input and Output
-<img width="1917" height="1067" alt="image" src="https://github.com/user-attachments/assets/976b3ce6-2b9c-47a7-a347-42c8c1918939" />
+<img width="1907" height="997" alt="image" src="https://github.com/user-attachments/assets/f199a9d7-cf0f-433a-8f3b-544250fdee89" />
+
 
 
 ## Time Complexity
