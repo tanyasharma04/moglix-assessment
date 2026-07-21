@@ -14,45 +14,14 @@ I used a stack to store the indices of parentheses. While traversing the string,
 ## Code
 
 
-<img width="1917" height="976" alt="image" src="https://github.com/user-attachments/assets/1849614b-77e8-4387-90cb-361df63187c9" />
+
 <img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/97393238-a233-4597-94c6-bf98c2af2ec3" />
+<img width="1917" height="976" alt="image" src="https://github.com/user-attachments/assets/1849614b-77e8-4387-90cb-361df63187c9" />
 
 
-## Sample Input 1
+## Sample Input and Output
+<img width="1917" height="1067" alt="image" src="https://github.com/user-attachments/assets/976b3ce6-2b9c-47a7-a347-42c8c1918939" />
 
-```text
-(()
-```
-
-## Sample Output 1
-
-```text
-2
-```
-
-## Sample Input 2
-
-```text
-)()())
-```
-
-## Sample Output 2
-
-```text
-4
-```
-
-## Sample Input 3
-
-```text
-()
-```
-
-## Sample Output 3
-
-```text
-2
-```
 
 ## Time Complexity
 
